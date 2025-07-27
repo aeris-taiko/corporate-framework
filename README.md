@@ -1,1 +1,1 @@
-# governance-framework
+# corporate-framework
